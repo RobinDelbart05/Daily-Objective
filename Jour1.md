@@ -4,7 +4,7 @@ Christopher & Benjamin
 
 ## Jour 1 (Jeudi 10 Octobre 2024) :
 
-- [ ] Faire connaissance avec l'équipe pédagogique et les autres apprenants
+- [x] Faire connaissance avec l'équipe pédagogique et les autres apprenants
 - [ ] Finaliser son dossier administratif
 - [ ] Remise des ordinateurs, création de la promo sur Simplon Online, obtenir les accès SoWeSign.
 - [ ] [Comprendre la méthode pédagogique et la philosophie de la formation.](https://simplonline.co/briefs/df8d41af-56a4-474c-81f6-27715303ea73)
