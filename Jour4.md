@@ -6,4 +6,4 @@ Christopher
 
 - [x] Découverte de VS Code
 - [x] Comprendre le web (Openclassrooms)
-- [ ] Faire le parcours Git-it (Nodeschool.io)
+- [x] Faire le parcours Git-it (Nodeschool.io)
