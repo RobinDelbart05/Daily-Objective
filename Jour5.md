@@ -14,7 +14,7 @@ Christopher
     - [x] Formatage de texte (italique, souligné, gras)
     - [x] Code
     - [x] Citations
-    - [ ] Tableaux
+    - [x] Tableaux
     - [ ] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [ ] Comprendre l'intérêt des raccourcis clavier
