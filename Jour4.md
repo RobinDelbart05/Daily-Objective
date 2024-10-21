@@ -5,5 +5,5 @@ Christopher
 ## Jour 4 (Mardi 15 Octobre 2024) :
 
 - [x] Découverte de VS Code
-- [ ] Comprendre le web (Openclassrooms)
+- [x] Comprendre le web (Openclassrooms)
 - [ ] Faire le parcours Git-it (Nodeschool.io)
