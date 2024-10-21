@@ -20,7 +20,7 @@ Christopher
     - [x] git init
     - [x] git add
     - [x] git status
-    - [ ] git commit
+    - [x] git commit
     - [ ] git remote
     - [ ] git pull
     - [ ] git push
