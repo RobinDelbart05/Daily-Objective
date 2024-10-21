@@ -11,7 +11,7 @@ Christopher
     - [x] Titres
     - [x] Images
     - [x] Listes
-    - [ ] Formatage de texte (italique, souligné, gras)
+    - [x] Formatage de texte (italique, souligné, gras)
     - [ ] Code
     - [ ] Citations
     - [ ] Tableaux
