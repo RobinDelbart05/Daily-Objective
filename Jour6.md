@@ -10,7 +10,7 @@ Benjamin
 
 ### Terminal
 
-- [ ] Faire le parcours [terminal tutor](https://www.terminaltutor.com/).
+- [x] Faire le parcours [terminal tutor](https://www.terminaltutor.com/).
 
 ### Git
 
