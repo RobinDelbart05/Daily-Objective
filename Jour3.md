@@ -19,7 +19,7 @@ Christopher
   - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     - [x] git init
     - [x] git add
-    - [ ] git status
+    - [x] git status
     - [ ] git commit
     - [ ] git remote
     - [ ] git pull
