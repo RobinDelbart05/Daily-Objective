@@ -21,7 +21,7 @@ Christopher
     - [x] git add
     - [x] git status
     - [x] git commit
-    - [ ] git remote
+    - [x] git remote
     - [ ] git pull
     - [ ] git push
     - [ ] git clone
