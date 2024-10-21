@@ -6,7 +6,7 @@ Christopher
 
 - [ ] Pimper son terminal :
   - [x] Installation de `ZSH`
-  - [ ] Installation de `Ohmyzsh`
+  - [x] Installation de `Ohmyzsh`
   - [ ] configuration de `ZSH` comme shell par défaut
   - [ ] Installation et configuration de `Powelevel 10K`
   - [ ] Allez voir les plugins de `Ohmyzsh`
