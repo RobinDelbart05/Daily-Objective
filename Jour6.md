@@ -16,7 +16,7 @@ Benjamin
 
 - [x] Comprendre les termes "local", "origin" et "upstream"
 - [x] Forker le repo des dailys objectives
-- [ ] Faire ses premiers commits sur votre fork des daily objectives (plusieurs commits par jour pour les débutants)
+- [x] Faire ses premiers commits sur votre fork des daily objectives (plusieurs commits par jour pour les débutants)
 - [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
 - [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
