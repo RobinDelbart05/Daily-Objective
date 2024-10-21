@@ -13,7 +13,7 @@ Christopher
     - [x] Listes
     - [x] Formatage de texte (italique, souligné, gras)
     - [x] Code
-    - [ ] Citations
+    - [x] Citations
     - [ ] Tableaux
     - [ ] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
