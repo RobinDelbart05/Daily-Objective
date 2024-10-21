@@ -10,7 +10,7 @@ Christopher
   - [x] Découvrir les balises de bases :
     - [x] Titres
     - [x] Images
-    - [ ] Listes
+    - [x] Listes
     - [ ] Formatage de texte (italique, souligné, gras)
     - [ ] Code
     - [ ] Citations
