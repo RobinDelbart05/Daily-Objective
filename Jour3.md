@@ -23,5 +23,5 @@ Christopher
     - [x] git commit
     - [x] git remote
     - [x] git pull
-    - [ ] git push
+    - [x] git push
     - [ ] git clone
