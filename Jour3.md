@@ -17,7 +17,7 @@ Christopher
 - [x] Comprendre le fonctionnement de Git
   - [x] Comprendre le staging de Git
   - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
+    - [x] git init
     - [ ] git add
     - [ ] git status
     - [ ] git commit
