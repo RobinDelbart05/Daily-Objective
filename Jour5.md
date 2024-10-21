@@ -12,7 +12,7 @@ Christopher
     - [x] Images
     - [x] Listes
     - [x] Formatage de texte (italique, souligné, gras)
-    - [ ] Code
+    - [x] Code
     - [ ] Citations
     - [ ] Tableaux
     - [ ] Liens
