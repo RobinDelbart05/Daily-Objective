@@ -4,7 +4,7 @@ Christopher
 
 ## Jour 5 (Mercredi 16 Octobre 2024) :
 
-- [ ] Créer son premier repo Github
+- [x] Créer son premier repo Github
 - [ ] Découverte du Markdown :
   - [ ] Comprendre l'intérêt du Markdown
   - [ ] Découvrir les balises de bases :
