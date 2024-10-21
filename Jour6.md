@@ -22,8 +22,8 @@ Benjamin
   - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
   - [x] Renommer son dernier commit en respectant cette convention
-- [ ] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
+- [x] Comprendre le fonctionnement des branches dans Git :
+  - [x] Lister, changer, créer, supprimer des branches
 - [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
