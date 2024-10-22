@@ -26,7 +26,7 @@ Benjamin
   - [x] Lister, changer, créer, supprimer des branches
 - [x] Comprendre le merge dans Git
   - [x] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+  - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
