@@ -30,7 +30,7 @@ Benjamin
 
 #### Github
 
-- [ ] Pimper son profile Github
+- [x] Pimper son profile Github
 - [ ] Découvrir l'interface de Github :
   - [ ] Pull Requests
   - [ ] Branches
