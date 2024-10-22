@@ -7,7 +7,7 @@ Christopher
 - [x] Créer son premier repo Github
 - [x] Découverte du Markdown :
   - [x] Comprendre l'intérêt du Markdown
-  - [ ] Découvrir les balises de bases :
+  - [x] Découvrir les balises de bases :
     - [ ] Titres
     - [ ] Images
     - [ ] Listes
