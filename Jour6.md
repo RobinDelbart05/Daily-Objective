@@ -25,7 +25,7 @@ Benjamin
 - [x] Comprendre le fonctionnement des branches dans Git :
   - [x] Lister, changer, créer, supprimer des branches
 - [x] Comprendre le merge dans Git
-  - [ ] Comprendre le "fast forward"
+  - [x] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
