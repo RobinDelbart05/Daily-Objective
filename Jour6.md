@@ -32,7 +32,7 @@ Benjamin
 
 - [x] Pimper son profile Github
 - [x] Découvrir l'interface de Github :
-  - [ ] Pull Requests
+  - [x] Pull Requests
   - [ ] Branches
   - [ ] Issues
   - [ ] Settings projet
