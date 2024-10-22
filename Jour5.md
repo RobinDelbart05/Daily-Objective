@@ -9,7 +9,7 @@ Christopher
   - [x] Comprendre l'intérêt du Markdown
   - [x] Découvrir les balises de bases :
     - [x] Titres
-    - [ ] Images
+    - [x] Images
     - [ ] Listes
     - [ ] Formatage de texte (italique, souligné, gras)
     - [ ] Code
