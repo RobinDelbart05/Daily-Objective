@@ -34,6 +34,6 @@ Benjamin
 - [x] Découvrir l'interface de Github :
   - [x] Pull Requests
   - [x] Branches
-  - [ ] Issues
+  - [x] Issues
   - [ ] Settings projet
   - [ ] Settings profile
