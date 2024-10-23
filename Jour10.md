@@ -4,7 +4,7 @@ Christopher
 
 ## Jour 10 (Mercredi 23 Octobre 2024) :
 
-- [ ] Savoir appliquer des bordures, ombres et backgrounds
+- [x] Savoir appliquer des bordures, ombres et backgrounds
 - [ ] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
 - [ ] Faire le parcours [CSS Diner](https://flukeout.github.io/) (Travail pour bien comprendre les selecteurs)
 - [ ] Savoir manipuler les polices en CSS
