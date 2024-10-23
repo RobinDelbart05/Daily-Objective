@@ -6,7 +6,7 @@ Christopher
 
 ### Vie de la promo
 
-- [ ] Élire les délégués de la promo.
+- [x] Élire les délégués de la promo.
 
 ### Git
 
