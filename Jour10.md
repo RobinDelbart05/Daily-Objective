@@ -6,7 +6,7 @@ Christopher
 
 - [x] Savoir appliquer des bordures, ombres et backgrounds
 - [x] Savoir styliser son texte (color, text-align, text-decoration, text-transform, text-indent, etc …)
-- [ ] Faire le parcours [CSS Diner](https://flukeout.github.io/) (Travail pour bien comprendre les selecteurs)
+- [x] Faire le parcours [CSS Diner](https://flukeout.github.io/) (Travail pour bien comprendre les selecteurs)
 - [ ] Savoir manipuler les polices en CSS
 - [ ] Découvrir Google Fonts
 - [ ] Savoir intégrer des polices extérieures dans le CSS
