@@ -36,4 +36,4 @@ Benjamin
   - [x] Branches
   - [x] Issues
   - [x] Settings projet
-  - [ ] Settings profile
+  - [x] Settings profile
