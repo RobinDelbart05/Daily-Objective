@@ -7,7 +7,7 @@ Benjamin
 ### Git :
 
 - [x] Comprendre la différence entre `git reset` et `git revert`
-- [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
+- [x] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
 - [ ] Comprendre et utiliser le `git diff` (quelle utilité)
 - [ ] Comprendre la différence entre `git log` et `git show`.
 
