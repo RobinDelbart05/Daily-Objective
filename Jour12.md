@@ -17,5 +17,5 @@ Benjamin
   - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [x] Différenciateur (par ex : Delta)
   - [x] Comprendre les Alias
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Comprendre la différence entre config locale, globale et système
 - [ ] Choix workflow : Faites vos alias
