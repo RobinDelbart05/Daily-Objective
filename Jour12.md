@@ -13,7 +13,7 @@ Benjamin
 
 ### Setup Workflow Git
 
-- [ ] Configurer son git :
+- [x] Configurer son git :
   - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [x] Différenciateur (par ex : Delta)
   - [x] Comprendre les Alias
