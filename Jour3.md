@@ -4,7 +4,7 @@ Christopher
 
 ## Jour 3 (Lundi 14 Octobre 2024) :
 
-- [ ] Pimper son terminal :
+- [x] Pimper son terminal :
   - [x] Installation de `ZSH`
   - [x] Installation de `Ohmyzsh`
   - [ ] configuration de `ZSH` comme shell par défaut
