@@ -18,4 +18,4 @@ Benjamin
   - [x] Différenciateur (par ex : Delta)
   - [x] Comprendre les Alias
   - [x] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Faites vos alias
+- [x] Choix workflow : Faites vos alias
