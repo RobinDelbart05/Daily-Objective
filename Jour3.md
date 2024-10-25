@@ -7,7 +7,7 @@ Christopher
 - [x] Pimper son terminal :
   - [x] Installation de `ZSH`
   - [x] Installation de `Ohmyzsh`
-  - [ ] configuration de `ZSH` comme shell par défaut
+  - [x] configuration de `ZSH` comme shell par défaut
   - [ ] Installation et configuration de `Powelevel 10K`
   - [ ] Allez voir les plugins de `Ohmyzsh`
 - [x] Création de compte Github
